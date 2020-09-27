@@ -1,2 +1,2 @@
-# HerbalSite-promo-site
-Website to promote the Herbal Site app created during the Shell Hacks 2020 Hackathon
+# Plantify-promo-site
+Website to promote the Plantify app created during the Shell Hacks 2020 Hackathon
